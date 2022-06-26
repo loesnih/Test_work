@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: a72bafdf7d28f5f4997d69ff53e78af8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7603437587101503371
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_0
+  - first:
+      213: -7318778432771336598
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_1
+  - first:
+      213: 610780647870350535
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_2
+  - first:
+      213: 6372430006100743933
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_3
+  - first:
+      213: -4641555609776583486
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_4
+  - first:
+      213: 6711750231639576751
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_5
+  - first:
+      213: 4788779890573020570
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_6
+  - first:
+      213: 832989672291891777
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_7
+  - first:
+      213: -3289505040827950305
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_8
+  - first:
+      213: -6366726258798551100
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_9
+  - first:
+      213: -3777543992217549640
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_10
+  - first:
+      213: -8946478360228936030
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_11
+  - first:
+      213: 6139901830254250778
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_12
+  - first:
+      213: 4821903140715182232
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_13
+  - first:
+      213: -5291772762270642297
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_14
+  - first:
+      213: 2521665615767829501
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_15
+  - first:
+      213: 6821023684993908983
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_16
+  - first:
+      213: -6032574545350208131
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_17
+  - first:
+      213: -745358264132872106
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_18
+  - first:
+      213: 5097036170807719606
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_19
+  - first:
+      213: 3479051932573757242
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_20
+  - first:
+      213: 6636027893955052059
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_21
+  - first:
+      213: 6171744166574079671
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_22
+  - first:
+      213: 2278359085288669318
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_23
+  - first:
+      213: 3419613777470034239
+    second: 1614564622_47-p-personazh-among-as-na-belom-fone-56_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 900
+        width: 126
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fc9036336d48960800000000000000
+      internalID: 7603437587101503371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 900
+        width: 126
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66dfdcbac97e6a90800000000000000
+      internalID: -7318778432771336598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 900
+        width: 126
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4ceff53cde97800800000000000000
+      internalID: 610780647870350535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 900
+        width: 126
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6dca5f35b6f6850800000000000000
+      internalID: 6372430006100743933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 924
+        width: 150
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc8b02d3c1e59fb0800000000000000
+      internalID: -4641555609776583486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 924
+        width: 168
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0d50a764de42d50800000000000000
+      internalID: 6711750231639576751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_6
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 924
+        width: 132
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d832d30f9257240800000000000000
+      internalID: 4788779890573020570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_7
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 900
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14af68e81bf5f8b00800000000000000
+      internalID: 832989672291891777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_8
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 900
+        width: 138
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bd79a08945952d0800000000000000
+      internalID: -3289505040827950305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 516
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf19223338d4a7a0800000000000000
+      internalID: -6366726258798551100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 522
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4467cd0c7739bc0800000000000000
+      internalID: -3777543992217549640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 516
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6c5d3f459b7d380800000000000000
+      internalID: -8946478360228936030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_12
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 516
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b431c1f20553550800000000000000
+      internalID: 6139901830254250778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_13
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 516
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8983ba3eb57dae240800000000000000
+      internalID: 4821903140715182232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_14
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 522
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f45c0b5b8df86b0800000000000000
+      internalID: -5291772762270642297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_15
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 516
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb78266481cef220800000000000000
+      internalID: 2521665615767829501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_16
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 516
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f08694f6e429ae50800000000000000
+      internalID: 6821023684993908983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_17
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 540
+        width: 150
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d755657b96df74ca0800000000000000
+      internalID: -6032574545350208131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 156
+        width: 150
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65855fb9b94f7a5f0800000000000000
+      internalID: -745358264132872106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 156
+        width: 168
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6bf40646f4cb640800000000000000
+      internalID: 5097036170807719606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 156
+        width: 168
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fe134cc43184030800000000000000
+      internalID: 3479051932573757242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_21
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 156
+        width: 168
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1246cad538e71c50800000000000000
+      internalID: 6636027893955052059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_22
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 156
+        width: 168
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bebc35ce9076a550800000000000000
+      internalID: 6171744166574079671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 156
+        width: 168
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6804a6d448b5e9f10800000000000000
+      internalID: 2278359085288669318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1614564622_47-p-personazh-among-as-na-belom-fone-56_24
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 156
+        width: 168
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31122bdc98e47f20800000000000000
+      internalID: 3419613777470034239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
